@@ -1,4 +1,6 @@
 # Stack Overflow Survey Analysis - a Data Scientist perspective
+Created by: Pawel Wnuk Lipinski
+
 The objective of the analysis is to explore the results of Stack Overflow Surveys, looking specifically from the perspecitve of Data Science field. The survey is run annually since 2011. Years 2018-2022 are being analysed.
 
 The survey data and other related details can be found here:
@@ -8,12 +10,12 @@ The analysis is prepared in a Jupyter Notebook "Stack Overflow Survey Analysis -
 
 By data analysis of the survey results I look for interesting insights related to Data Science field. I am looking for an answer to the following questions:
 
-How do Data Scientists work (hybrid / remote / in-person)?
-What is the education level of Data Scientists and how it has changed over time?
-How Data Scientist learn to code?
-How much Data Scientists earn and how much the salaries differ between countries?
-What are the most popular technologies used?
-Do mental health problems and accessibility issues affect Data Scientists?
+* How do Data Scientists work (hybrid / remote / in-person)?
+* What is the education level of Data Scientists and how it has changed over time?
+* How Data Scientist learn to code?
+* How much Data Scientists earn and how much the salaries differ between countries?
+* What are the most popular technologies used?
+* Do mental health problems and accessibility issues affect Data Scientists?
 
 
 #### Summary
