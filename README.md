@@ -21,7 +21,7 @@ By data analysis of the survey results I look for interesting insights related t
 #### Summary
 The analysis, which is based on the results from stack overflow survey in years 2018-2022, provided interesting insights related to the way Data Scientists work, their education level, ways to learn, salaries, most common technologies and touches important subjects like mental health and accessibility issues. Depending on the reader, if that is a Data Scientist, aspiring Data Scientist or someone from a company managing and building Data Science Teams, everyone should find interesting information in the results of the analysis.
 
-Libraries used:
+#### Libraries used:
 * matplotlib
 * seaborn
 * pandas
